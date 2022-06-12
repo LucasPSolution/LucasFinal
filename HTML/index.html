@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta http-equiv="X-UA-Compatible" content="ie=edge">
+	<title>Formulario Force Transport</title>
+	<link href="https://fonts.googleapis.com/css?family=Roboto:400,500,700&display=swap" rel="stylesheet"> 
+	<script src="https://kit.fontawesome.com/2c36e9b7b1.js" crossorigin="anonymous"></script>
+	<link rel="stylesheet" href="css/estilos.css">
+</head>
+<body >
+	<div class="contenedor">
+		<nav>
+			<a class="logotipo" href="#">Lucas Miranda</a>
+			<div class="enlaces">
+				<a href="mailto:lmiranda@powersolution.com.ar" target="_blank">Correo Electronico</a>
+				<a href="https://www.linkedin.com/in/lucasemiranda/" target="_blank">Linkedin</a>
+				<a href="https://twitter.com/MirandaLucas10" target="_blank">Twitter</a>
+				<button class="switch" id="switch">
+					<span><i class="fas fa-sun"></i></span>
+					<span><i class="fas fa-moon"></i></span>
+				</button>
+			</div>
+		</nav>
+		<div class="flex justify-center align-middle h-screen" style="background-image: url('https://i.ibb.co/brFsRf2/790413.jpg');background-repeat: no-repeat;
+		background-size: cover;">
+			<div  class="text-center max-w-md content-center my-7 ">
+			<form id='add' class="border-4 px-5 " style="background-color: white" action="https://webto.salesforce.com/servlet/servlet.WebToLead?encoding=UTF-8" method="POST">
+				
+				<input type=hidden name="oid" value="00D8a000002rt6y">
+				<input type=hidden name="retURL" value="https://frasesparacumpleanos.com/wp-content/uploads/2020/05/Gracias-a-nuestro-clientes-por-tu-preferencia.-1.png">
+		 
+		 
+		 
+		 
+				<label for="first_name">First Name</label><input class=" max-w-max px-4 py-2 border-b-2 border-gray-400 outline-none  focus:border-gray-400"  id="first_name" maxlength="40" name="first_name" size="20" type="text" /><br>
+		 
+				<label for="last_name">Last Name</label><input class="max-w-max px-4 py-2 border-b-2 border-gray-400 outline-none  focus:border-gray-400"  id="last_name" maxlength="80" name="last_name" size="20" type="text" /><br>
+		 
+				<label for="email">Email</label><input class="max-w-max px-4 py-2 border-b-2 border-gray-400 outline-none  focus:border-gray-400"  id="email" maxlength="80" name="email" size="20" type="text" /><br>
+		 
+				<label for="company">Company</label><input class="max-w-max px-4 py-2 border-b-2 border-gray-400 outline-none  focus:border-gray-400"  id="company" maxlength="40" name="company" size="20" type="text" /><br>
+		 
+				<label for="state">State/Province</label><input class="max-w-max px-4 py-2 border-b-2 border-gray-400 outline-none  focus:border-gray-400"  id="state" maxlength="20" name="state" size="20" type="text" /><br>
+		 
+				<label for="city">City</label><input class="max-w-max px-4 py-2 border-b-2 border-gray-400 outline-none  focus:border-gray-400"  id="city" maxlength="40" name="city" size="20" type="text" /><br>
+		 
+				<label for="mobile">Mobile</label><input class="max-w-max px-4 py-2 border-b-2 border-gray-400 outline-none  focus:border-gray-400"  id="mobile" maxlength="40" name="mobile" size="20" type="text" /><br>
+		 
+				<p class="my-2" >Servicio:</p><select class="bg-gray-50 border border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-blue-500 focus:border-blue-500 block w-full p-2.5 dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white dark:focus:ring-blue-500 dark:focus:border-blue-500" id="00N8a00000ACkVL" name="00N8a00000ACkVL" title="Servicio"><option value="">--None--</option><option value="Viaje Individual">Viaje Individual</option>
+				<option value="Alquiler de Vehiculo">Alquiler de Vehiculo</option>
+				</select><br>	 
+			
+				<button id="test" class="relative w-36 h-12 hover:bg-blue-700 hover:text-white focus:outline-none border-2 border-blue-700 rounded">
+					<span class="absolute -top-3 -right-2 h-3 w-3">
+					<span class="animate-ping absolute -right-1 -top-0 inline-flex h-5 w-5 rounded-full bg-purple-400 opacity-75"></span>
+					<span class="relative inline-flex rounded-full h-3 w-3 bg-purple-500"></span>
+					</span>
+		 
+					<input class="text-blue-700 hover:text-white uppercase boton" id="submit" type="submit" name="submit">
+		 
+				</button>
+		 
+		 
+		 
+		 
+		 
+		 
+			</form>
+		</div>	 
+		</div>
+
+	</div>
+	<link href="//cdn.jsdelivr.net/npm/@sweetalert2/theme-dark@4/dark.css"rel="stylesheet">
+	<script src="js/main.js"></script>
+	<script src="https://cdn.tailwindcss.com"></script>
+	<script src="//cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+	<script src="/js/sweetAlert.js"></script>
+	<script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js"></script>
+</body>
+</html>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ValidationRule xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>tipoInconveniente</fullName>
+    <active>false</active>
+    <description>Si es inconveniente Case Reason debe estar completo</description>
+    <errorConditionFormula>AND( ISPICKVAL(  Type , &apos;Inconveniente&apos;) , ISPICKVAL( Reason,&quot;&quot;) )</errorConditionFormula>
+    <errorMessage>Debe seleccionar el motivo del inconvenniente</errorMessage>
+</ValidationRule>

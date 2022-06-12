@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ValidationRule xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>TipodeServicio</fullName>
+    <active>true</active>
+    <description>Verificar Tipo de servicio</description>
+    <errorConditionFormula>AND( ISPICKVAL( Servicio__c , &apos;Viaje Individual&apos;) , ISBLANK(Vehicle__c ) )</errorConditionFormula>
+    <errorMessage>Debes selecionar un Vehiculo si es Viaje Individual</errorMessage>
+</ValidationRule>

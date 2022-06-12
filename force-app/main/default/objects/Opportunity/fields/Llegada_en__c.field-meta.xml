@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Llegada_en__c</fullName>
+    <externalId>false</externalId>
+    <label>Llegada en</label>
+    <required>false</required>
+    <trackFeedHistory>false</trackFeedHistory>
+    <trackTrending>false</trackTrending>
+    <type>Picklist</type>
+    <valueSet>
+        <controllingField>Salida_Desde__c</controllingField>
+        <restricted>true</restricted>
+        <valueSetName>Provincia_Salida</valueSetName>
+        <valueSettings>
+            <controllingFieldValue>Córdoba</controllingFieldValue>
+            <controllingFieldValue>Valladolid</controllingFieldValue>
+            <controllingFieldValue>Vigo</controllingFieldValue>
+            <controllingFieldValue>Gijón</controllingFieldValue>
+            <controllingFieldValue>Hospitalet de Llobregat</controllingFieldValue>
+            <controllingFieldValue>Valencia</controllingFieldValue>
+            <controllingFieldValue>Sevilla</controllingFieldValue>
+            <controllingFieldValue>Zaragoza</controllingFieldValue>
+            <controllingFieldValue>Málaga</controllingFieldValue>
+            <controllingFieldValue>Murcia</controllingFieldValue>
+            <controllingFieldValue>Palma</controllingFieldValue>
+            <controllingFieldValue>Las Palmas de Gran Canaria</controllingFieldValue>
+            <controllingFieldValue>Bilbao</controllingFieldValue>
+            <controllingFieldValue>Alicante</controllingFieldValue>
+            <valueName>Barcelona</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Córdoba</controllingFieldValue>
+            <controllingFieldValue>Valladolid</controllingFieldValue>
+            <controllingFieldValue>Vigo</controllingFieldValue>
+            <controllingFieldValue>Gijón</controllingFieldValue>
+            <controllingFieldValue>Hospitalet de Llobregat</controllingFieldValue>
+            <controllingFieldValue>Barcelona</controllingFieldValue>
+            <controllingFieldValue>Sevilla</controllingFieldValue>
+            <controllingFieldValue>Zaragoza</controllingFieldValue>
+            <controllingFieldValue>Málaga</controllingFieldValue>
+            <controllingFieldValue>Murcia</controllingFieldValue>
+            <controllingFieldValue>Palma</controllingFieldValue>
+            <controllingFieldValue>Las Palmas de Gran Canaria</controllingFieldValue>
+            <controllingFieldValue>Bilbao</controllingFieldValue>
+            <controllingFieldValue>Alicante</controllingFieldValue>
+            <valueName>Valencia</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Córdoba</controllingFieldValue>
+            <controllingFieldValue>Valladolid</controllingFieldValue>
+            <controllingFieldValue>Vigo</controllingFieldValue>
+            <controllingFieldValue>Gijón</controllingFieldValue>
+            <controllingFieldValue>Hospitalet de Llobregat</controllingFieldValue>
+            <controllingFieldValue>Barcelona</controllingFieldValue>
+            <controllingFieldValue>Valencia</controllingFieldValue>
+            <controllingFieldValue>Zaragoza</controllingFieldValue>
+            <controllingFieldValue>Málaga</controllingFieldValue>
+            <controllingFieldValue>Murcia</controllingFieldValue>
+            <controllingFieldValue>Palma</controllingFieldValue>
+            <controllingFieldValue>Las Palmas de Gran Canaria</controllingFieldValue>
+            <controllingFieldValue>Bilbao</controllingFieldValue>
+            <controllingFieldValue>Alicante</controllingFieldValue>
+            <valueName>Sevilla</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Córdoba</controllingFieldValue>
+            <controllingFieldValue>Valladolid</controllingFieldValue>
+            <controllingFieldValue>Vigo</controllingFieldValue>
+            <controllingFieldValue>Gijón</controllingFieldValue>
+            <controllingFieldValue>Hospitalet de Llobregat</controllingFieldValue>
+            <controllingFieldValue>Barcelona</controllingFieldValue>
+            <controllingFieldValue>Valencia</controllingFieldValue>
+            <controllingFieldValue>Sevilla</controllingFieldValue>
+            <controllingFieldValue>Málaga</controllingFieldValue>
+            <controllingFieldValue>Murcia</controllingFieldValue>
+            <controllingFieldValue>Palma</controllingFieldValue>
+            <controllingFieldValue>Las Palmas de Gran Canaria</controllingFieldValue>
+            <controllingFieldValue>Bilbao</controllingFieldValue>
+            <controllingFieldValue>Alicante</controllingFieldValue>
+            <valueName>Zaragoza</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Córdoba</controllingFieldValue>
+            <controllingFieldValue>Valladolid</controllingFieldValue>
+            <controllingFieldValue>Vigo</controllingFieldValue>
+            <controllingFieldValue>Gijón</controllingFieldValue>
+            <controllingFieldValue>Hospitalet de Llobregat</controllingFieldValue>
+            <controllingFieldValue>Barcelona</controllingFieldValue>
+            <controllingFieldValue>Valencia</controllingFieldValue>
+            <controllingFieldValue>Sevilla</controllingFieldValue>
+            <controllingFieldValue>Zaragoza</controllingFieldValue>
+            <controllingFieldValue>Murcia</controllingFieldValue>
+            <controllingFieldValue>Palma</controllingFieldValue>
+            <controllingFieldValue>Las Palmas de Gran Canaria</controllingFieldValue>
+            <controllingFieldValue>Bilbao</controllingFieldValue>
+            <controllingFieldValue>Alicante</controllingFieldValue>
+            <valueName>Málaga</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Córdoba</controllingFieldValue>
+            <controllingFieldValue>Valladolid</controllingFieldValue>
+            <controllingFieldValue>Vigo</controllingFieldValue>
+            <controllingFieldValue>Gijón</controllingFieldValue>
+            <controllingFieldValue>Hospitalet de Llobregat</controllingFieldValue>
+            <controllingFieldValue>Barcelona</controllingFieldValue>
+            <controllingFieldValue>Valencia</controllingFieldValue>
+            <controllingFieldValue>Sevilla</controllingFieldValue>
+            <controllingFieldValue>Zaragoza</controllingFieldValue>
+            <controllingFieldValue>Málaga</controllingFieldValue>
+            <controllingFieldValue>Palma</controllingFieldValue>
+            <controllingFieldValue>Las Palmas de Gran Canaria</controllingFieldValue>
+            <controllingFieldValue>Bilbao</controllingFieldValue>
+            <controllingFieldValue>Alicante</controllingFieldValue>
+            <valueName>Murcia</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Córdoba</controllingFieldValue>
+            <controllingFieldValue>Valladolid</controllingFieldValue>
+            <controllingFieldValue>Vigo</controllingFieldValue>
+            <controllingFieldValue>Gijón</controllingFieldValue>
+            <controllingFieldValue>Hospitalet de Llobregat</controllingFieldValue>
+            <controllingFieldValue>Barcelona</controllingFieldValue>
+            <controllingFieldValue>Valencia</controllingFieldValue>
+            <controllingFieldValue>Sevilla</controllingFieldValue>
+            <controllingFieldValue>Zaragoza</controllingFieldValue>
+            <controllingFieldValue>Málaga</controllingFieldValue>
+            <controllingFieldValue>Murcia</controllingFieldValue>
+            <controllingFieldValue>Las Palmas de Gran Canaria</controllingFieldValue>
+            <controllingFieldValue>Bilbao</controllingFieldValue>
+            <controllingFieldValue>Alicante</controllingFieldValue>
+            <valueName>Palma</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Córdoba</controllingFieldValue>
+            <controllingFieldValue>Valladolid</controllingFieldValue>
+            <controllingFieldValue>Vigo</controllingFieldValue>
+            <controllingFieldValue>Gijón</controllingFieldValue>
+            <controllingFieldValue>Hospitalet de Llobregat</controllingFieldValue>
+            <controllingFieldValue>Barcelona</controllingFieldValue>
+            <controllingFieldValue>Valencia</controllingFieldValue>
+            <controllingFieldValue>Sevilla</controllingFieldValue>
+            <controllingFieldValue>Zaragoza</controllingFieldValue>
+            <controllingFieldValue>Málaga</controllingFieldValue>
+            <controllingFieldValue>Murcia</controllingFieldValue>
+            <controllingFieldValue>Palma</controllingFieldValue>
+            <controllingFieldValue>Bilbao</controllingFieldValue>
+            <controllingFieldValue>Alicante</controllingFieldValue>
+            <valueName>Las Palmas de Gran Canaria</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Córdoba</controllingFieldValue>
+            <controllingFieldValue>Valladolid</controllingFieldValue>
+            <controllingFieldValue>Vigo</controllingFieldValue>
+            <controllingFieldValue>Gijón</controllingFieldValue>
+            <controllingFieldValue>Hospitalet de Llobregat</controllingFieldValue>
+            <controllingFieldValue>Barcelona</controllingFieldValue>
+            <controllingFieldValue>Valencia</controllingFieldValue>
+            <controllingFieldValue>Sevilla</controllingFieldValue>
+            <controllingFieldValue>Zaragoza</controllingFieldValue>
+            <controllingFieldValue>Málaga</controllingFieldValue>
+            <controllingFieldValue>Murcia</controllingFieldValue>
+            <controllingFieldValue>Palma</controllingFieldValue>
+            <controllingFieldValue>Las Palmas de Gran Canaria</controllingFieldValue>
+            <controllingFieldValue>Alicante</controllingFieldValue>
+            <valueName>Bilbao</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Córdoba</controllingFieldValue>
+            <controllingFieldValue>Valladolid</controllingFieldValue>
+            <controllingFieldValue>Vigo</controllingFieldValue>
+            <controllingFieldValue>Gijón</controllingFieldValue>
+            <controllingFieldValue>Hospitalet de Llobregat</controllingFieldValue>
+            <controllingFieldValue>Barcelona</controllingFieldValue>
+            <controllingFieldValue>Valencia</controllingFieldValue>
+            <controllingFieldValue>Sevilla</controllingFieldValue>
+            <controllingFieldValue>Zaragoza</controllingFieldValue>
+            <controllingFieldValue>Málaga</controllingFieldValue>
+            <controllingFieldValue>Murcia</controllingFieldValue>
+            <controllingFieldValue>Palma</controllingFieldValue>
+            <controllingFieldValue>Las Palmas de Gran Canaria</controllingFieldValue>
+            <controllingFieldValue>Bilbao</controllingFieldValue>
+            <valueName>Alicante</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Córdoba</controllingFieldValue>
+            <controllingFieldValue>Vigo</controllingFieldValue>
+            <controllingFieldValue>Gijón</controllingFieldValue>
+            <controllingFieldValue>Hospitalet de Llobregat</controllingFieldValue>
+            <controllingFieldValue>Barcelona</controllingFieldValue>
+            <controllingFieldValue>Valencia</controllingFieldValue>
+            <controllingFieldValue>Sevilla</controllingFieldValue>
+            <controllingFieldValue>Zaragoza</controllingFieldValue>
+            <controllingFieldValue>Málaga</controllingFieldValue>
+            <controllingFieldValue>Murcia</controllingFieldValue>
+            <controllingFieldValue>Palma</controllingFieldValue>
+            <controllingFieldValue>Las Palmas de Gran Canaria</controllingFieldValue>
+            <controllingFieldValue>Bilbao</controllingFieldValue>
+            <controllingFieldValue>Alicante</controllingFieldValue>
+            <valueName>Valladolid</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Córdoba</controllingFieldValue>
+            <controllingFieldValue>Valladolid</controllingFieldValue>
+            <controllingFieldValue>Gijón</controllingFieldValue>
+            <controllingFieldValue>Hospitalet de Llobregat</controllingFieldValue>
+            <controllingFieldValue>Barcelona</controllingFieldValue>
+            <controllingFieldValue>Valencia</controllingFieldValue>
+            <controllingFieldValue>Sevilla</controllingFieldValue>
+            <controllingFieldValue>Zaragoza</controllingFieldValue>
+            <controllingFieldValue>Málaga</controllingFieldValue>
+            <controllingFieldValue>Murcia</controllingFieldValue>
+            <controllingFieldValue>Palma</controllingFieldValue>
+            <controllingFieldValue>Las Palmas de Gran Canaria</controllingFieldValue>
+            <controllingFieldValue>Bilbao</controllingFieldValue>
+            <controllingFieldValue>Alicante</controllingFieldValue>
+            <valueName>Vigo</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Córdoba</controllingFieldValue>
+            <controllingFieldValue>Valladolid</controllingFieldValue>
+            <controllingFieldValue>Vigo</controllingFieldValue>
+            <controllingFieldValue>Hospitalet de Llobregat</controllingFieldValue>
+            <controllingFieldValue>Barcelona</controllingFieldValue>
+            <controllingFieldValue>Valencia</controllingFieldValue>
+            <controllingFieldValue>Sevilla</controllingFieldValue>
+            <controllingFieldValue>Zaragoza</controllingFieldValue>
+            <controllingFieldValue>Málaga</controllingFieldValue>
+            <controllingFieldValue>Murcia</controllingFieldValue>
+            <controllingFieldValue>Palma</controllingFieldValue>
+            <controllingFieldValue>Las Palmas de Gran Canaria</controllingFieldValue>
+            <controllingFieldValue>Bilbao</controllingFieldValue>
+            <controllingFieldValue>Alicante</controllingFieldValue>
+            <valueName>Gijón</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Córdoba</controllingFieldValue>
+            <controllingFieldValue>Valladolid</controllingFieldValue>
+            <controllingFieldValue>Vigo</controllingFieldValue>
+            <controllingFieldValue>Gijón</controllingFieldValue>
+            <controllingFieldValue>Barcelona</controllingFieldValue>
+            <controllingFieldValue>Valencia</controllingFieldValue>
+            <controllingFieldValue>Sevilla</controllingFieldValue>
+            <controllingFieldValue>Zaragoza</controllingFieldValue>
+            <controllingFieldValue>Málaga</controllingFieldValue>
+            <controllingFieldValue>Murcia</controllingFieldValue>
+            <controllingFieldValue>Palma</controllingFieldValue>
+            <controllingFieldValue>Las Palmas de Gran Canaria</controllingFieldValue>
+            <controllingFieldValue>Bilbao</controllingFieldValue>
+            <controllingFieldValue>Alicante</controllingFieldValue>
+            <valueName>Hospitalet de Llobregat</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Valladolid</controllingFieldValue>
+            <controllingFieldValue>Vigo</controllingFieldValue>
+            <controllingFieldValue>Gijón</controllingFieldValue>
+            <controllingFieldValue>Hospitalet de Llobregat</controllingFieldValue>
+            <controllingFieldValue>Barcelona</controllingFieldValue>
+            <controllingFieldValue>Valencia</controllingFieldValue>
+            <controllingFieldValue>Sevilla</controllingFieldValue>
+            <controllingFieldValue>Zaragoza</controllingFieldValue>
+            <controllingFieldValue>Málaga</controllingFieldValue>
+            <controllingFieldValue>Murcia</controllingFieldValue>
+            <controllingFieldValue>Palma</controllingFieldValue>
+            <controllingFieldValue>Las Palmas de Gran Canaria</controllingFieldValue>
+            <controllingFieldValue>Bilbao</controllingFieldValue>
+            <controllingFieldValue>Alicante</controllingFieldValue>
+            <valueName>Córdoba</valueName>
+        </valueSettings>
+    </valueSet>
+</CustomField>

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalValueSet xmlns="http://soap.sforce.com/2006/04/metadata">
+    <customValue>
+        <fullName>Barcelona</fullName>
+        <default>false</default>
+        <label>Barcelona</label>
+    </customValue>
+    <customValue>
+        <fullName>Valencia</fullName>
+        <default>false</default>
+        <label>Valencia</label>
+    </customValue>
+    <customValue>
+        <fullName>Sevilla</fullName>
+        <default>false</default>
+        <label>Sevilla</label>
+    </customValue>
+    <customValue>
+        <fullName>Zaragoza</fullName>
+        <default>false</default>
+        <label>Zaragoza</label>
+    </customValue>
+    <customValue>
+        <fullName>Málaga</fullName>
+        <default>false</default>
+        <label>Málaga</label>
+    </customValue>
+    <customValue>
+        <fullName>Murcia</fullName>
+        <default>false</default>
+        <label>Murcia</label>
+    </customValue>
+    <customValue>
+        <fullName>Palma</fullName>
+        <default>false</default>
+        <label>Palma</label>
+    </customValue>
+    <customValue>
+        <fullName>Las Palmas de Gran Canaria</fullName>
+        <default>false</default>
+        <label>Las Palmas de Gran Canaria</label>
+    </customValue>
+    <customValue>
+        <fullName>Bilbao</fullName>
+        <default>false</default>
+        <label>Bilbao</label>
+    </customValue>
+    <customValue>
+        <fullName>Alicante</fullName>
+        <default>false</default>
+        <label>Alicante</label>
+    </customValue>
+    <customValue>
+        <fullName>Córdoba</fullName>
+        <default>false</default>
+        <label>Córdoba</label>
+    </customValue>
+    <customValue>
+        <fullName>Valladolid</fullName>
+        <default>false</default>
+        <label>Valladolid</label>
+    </customValue>
+    <customValue>
+        <fullName>Vigo</fullName>
+        <default>false</default>
+        <label>Vigo</label>
+    </customValue>
+    <customValue>
+        <fullName>Gijón</fullName>
+        <default>false</default>
+        <label>Gijón</label>
+    </customValue>
+    <customValue>
+        <fullName>Hospitalet de Llobregat</fullName>
+        <default>false</default>
+        <label>Hospitalet de Llobregat</label>
+    </customValue>
+    <masterLabel>Provincia Salida</masterLabel>
+    <sorted>false</sorted>
+</GlobalValueSet>
