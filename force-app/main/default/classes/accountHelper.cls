@@ -5,7 +5,11 @@ public with sharing class accountHelper {
          for (Contact ctc : [SELECT Id, Name
             FROM Contact where AccountId = :idObject]) {
             contacto.add(ctc);
+
          }       
+
         return contacto;
-    } 
+
+    }
+ 
 }

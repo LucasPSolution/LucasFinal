@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<StandardValueSet xmlns="http://soap.sforce.com/2006/04/metadata">
+    <sorted>false</sorted>
+    <standardValue>
+        <fullName>Desperfecto Mecanico</fullName>
+        <color>#FF0000</color>
+        <default>false</default>
+        <label>Desperfecto Mecanico</label>
+        <cssExposed>false</cssExposed>
+    </standardValue>
+    <standardValue>
+        <fullName>Limpieza</fullName>
+        <color>#33CCFF</color>
+        <default>false</default>
+        <label>Limpieza</label>
+        <cssExposed>false</cssExposed>
+    </standardValue>
+    <standardValue>
+        <fullName>Other</fullName>
+        <default>false</default>
+        <label>Other</label>
+        <cssExposed>false</cssExposed>
+    </standardValue>
+    <standardValue>
+        <fullName>Precio</fullName>
+        <default>false</default>
+        <label>Precio</label>
+        <cssExposed>false</cssExposed>
+    </standardValue>
+    <standardValue>
+        <fullName>Tiempo de entrega</fullName>
+        <default>false</default>
+        <label>Tiempo de entrega</label>
+        <cssExposed>false</cssExposed>
+    </standardValue>
+</StandardValueSet>

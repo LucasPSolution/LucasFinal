@@ -11,13 +11,25 @@
     <tabs>standard-CmsExperiences</tabs>
     <tabs>Factura__c</tabs>
     <tabs>Detalle_de_Fc__c</tabs>
+    <tabs>Transport__c</tabs>
+    <tabs>Servicio_Vendido__c</tabs>
+    <tabs>Distancia__c</tabs>
     <uiType>Lightning</uiType>
     <workspaceConfig>
         <mappings>
             <tab>Detalle_de_Fc__c</tab>
         </mappings>
         <mappings>
+            <tab>Distancia__c</tab>
+        </mappings>
+        <mappings>
             <tab>Factura__c</tab>
+        </mappings>
+        <mappings>
+            <tab>Servicio_Vendido__c</tab>
+        </mappings>
+        <mappings>
+            <tab>Transport__c</tab>
         </mappings>
         <mappings>
             <tab>standard-CmsAuthorHome</tab>

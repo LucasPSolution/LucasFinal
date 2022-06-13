@@ -26,4 +26,8 @@
         <fullName>Recotizado</fullName>
         <default>false</default>
     </values>
+    <values>
+        <fullName>Transporte Elegido</fullName>
+        <default>false</default>
+    </values>
 </BusinessProcess>

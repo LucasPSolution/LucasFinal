@@ -1,5 +1,5 @@
 import { LightningElement ,api,wire,track} from 'lwc';
-import getAccountList from '@salesforce/apex/AccountHelper.getAccountList';
+import getAccountList from '@salesforce/apex/accountHelper.getAccountList';
 const columns = [
     {
         label: 'Account name',

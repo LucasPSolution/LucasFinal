@@ -13,4 +13,7 @@
     <tabs>standard-Dashboard</tabs>
     <tabs>Factura__c</tabs>
     <tabs>Detalle_de_Fc__c</tabs>
+    <tabs>Transport__c</tabs>
+    <tabs>Servicio_Vendido__c</tabs>
+    <tabs>Distancia__c</tabs>
 </CustomApplication>

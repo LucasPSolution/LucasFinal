@@ -2,7 +2,7 @@
 <RecordType xmlns="http://soap.sforce.com/2006/04/metadata">
     <fullName>Viaje_Individual</fullName>
     <active>true</active>
-    <businessProcess>Opp1</businessProcess>
+    <businessProcess>ViajeIndividual</businessProcess>
     <label>Viaje Individual</label>
     <picklistValues>
         <picklist>DeliveryInstallationStatus__c</picklist>
@@ -193,6 +193,10 @@
     </picklistValues>
     <picklistValues>
         <picklist>Servicio__c</picklist>
+        <values>
+            <fullName>Alquiler de Vehiculo</fullName>
+            <default>false</default>
+        </values>
         <values>
             <fullName>Viaje Individual</fullName>
             <default>true</default>

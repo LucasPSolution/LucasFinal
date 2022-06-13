@@ -197,6 +197,10 @@
             <fullName>Alquiler de Vehiculo</fullName>
             <default>true</default>
         </values>
+        <values>
+            <fullName>Viaje Individual</fullName>
+            <default>false</default>
+        </values>
     </picklistValues>
     <picklistValues>
         <picklist>Tipo_de_Alquiler__c</picklist>

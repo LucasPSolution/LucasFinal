@@ -3,6 +3,6 @@
     <fullName>TipodeServicio</fullName>
     <active>true</active>
     <description>Verificar Tipo de servicio</description>
-    <errorConditionFormula>AND( ISPICKVAL( Servicio__c , &apos;Viaje Individual&apos;) , ISBLANK(Vehicle__c ) )</errorConditionFormula>
+    <errorConditionFormula>AND(  Probability  &gt; 0.30,AND( ISPICKVAL( Servicio__c , &apos;Viaje Individual&apos;) , ISBLANK(Vehicle__c ) ))</errorConditionFormula>
     <errorMessage>Debes selecionar un Vehiculo si es Viaje Individual</errorMessage>
 </ValidationRule>
